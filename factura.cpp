@@ -4,7 +4,7 @@ using namespace std;
 //en cuenta que el cobro del paquete sera de acuerdo a su peso en libras. hacer un me
 int main ()
 {
-    int libras, precio, opc;
+    int libras, precio, libras, opc;
     int subtotal, total, isv, descuento;
     string destino, tegucigalpa, san_pedro_sula, la_ceiba, rohatan, puerto_cortes, cliente;
 
